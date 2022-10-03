@@ -1,3 +1,3 @@
-My second readme edited from github 
+My second readme edited 
 
 
